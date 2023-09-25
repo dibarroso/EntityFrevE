@@ -1,9 +1,9 @@
 # DATABASE REVERSE ENGINEERING
 
 In VSCode run:
-´´´
+'''
 dotnet new console -o EFrevE
-´´´
+'''
 ´´´
 cd EFrevE
 ´´´
